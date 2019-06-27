@@ -1,0 +1,71 @@
+body{
+    margin: 0;
+    text-align: center;
+}
+#title{
+    position: relative;
+    font-family: Snell Roundhand, cursive;
+    text-align: center;
+    font-size: 48px;
+    padding-top: 60px;
+    padding-bottom: 60px;
+    display: inline-block;
+    background: #eabaff;
+    text-decoration: underline overline;
+    margin: 0;
+    width: 100%
+}
+
+.bio{
+/*    display: inline;*/
+    margin: 0;
+    padding: 50px 20px;
+    background: #ffbaf2;
+    font-size: 20px;
+    font-family: georgia;
+}
+.head{
+    text-decoration: underline;
+    font-weight: bold;
+    font-size: 20px;
+}
+#cd{
+    text-align: left;
+    margin: 0;
+    padding: 20px;
+    background: #ffbacf;
+}
+img{
+    width: 100px;
+    float: left;
+    padding: 20px;
+    background: #ffbacf;
+}
+.descript{
+    padding: 30px;
+    padding-right: 0;
+    text-align: left;
+    font-size: 20px;
+    background: #ffbacf;
+    margin: 0;
+}
+#wd{
+    background: #ffbacf;
+    width: 100%;
+}
+#my_hero{
+    background: #ffbacf;
+    width: 100%;
+}
+.myhero{
+    text-align: center;
+}
+.center{
+  float: none;
+}
+.ci{
+    margin: 0;
+    text-align: left;
+    background: #ffc7ba;
+    padding: 20px;
+}
